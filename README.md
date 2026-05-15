@@ -104,3 +104,6 @@ I learned how data is loaded, how CNN layers extract features from images, how m
 One of the biggest things I learned is that preparing data correctly is just as important as building the neural network itself.
 
 This project gave me practical experience with TensorFlow.js and helped me better understand how image classification systems work behind the scenes.
+
+
+As for the images used (and screenshots) , all images i have used , i got them from Pinterest.
